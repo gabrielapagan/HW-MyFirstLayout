@@ -1,0 +1,113 @@
+
+body {
+    background-color: #fcfdfe;
+    fill: #f27b3b;
+    fill-opacity: 0.37;
+    margin: 0;
+    padding: 0;
+}
+
+img#me {
+    width: 375px;
+    height: 375px;
+    padding-top: 5px;
+    padding-left: 550px;
+    padding-right: 200px; 
+    margin: 100px; 
+
+}
+
+h1 {
+    text-align: center;
+    color: #ec5d10;
+    font-size: 55px;
+    font-family: 'Poppins', sans-serif;
+    padding-bottom: 60px; 
+    padding-top: 40px; 
+
+
+    
+}
+
+h2 {
+    text-align: center; 
+    color: #78d3fb;
+    font-size: 38px;
+    font-family: 'Spectral', serif;
+    padding-top: 40px; 
+    padding-bottom:  40px;
+
+
+}
+
+
+ul#facts {
+    display: block;
+    list-style: none;
+    padding-left: 60px;
+    padding-right: 35px;
+    margin: 5px;
+
+}
+
+ul#hobbies {
+    display: block;
+    list-style: none;
+    padding-left: 60px;
+    padding-right: 35px;
+    margin: 5px;
+
+}
+
+ul#books {
+    display: block;
+    list-style: none;
+    padding-left: 60px;
+    padding-right: 35px;
+    margin: 5px;
+
+}
+
+img {
+    width: 454px;
+    height: 454px;
+    margin: 100px;
+    padding-bottom: 10px;
+    align-content: center;
+    padding-left: 119px; 
+   
+}
+
+p {
+    font-size: 22px;
+    color: #312d2f;
+    font-family: 'Spectral', serif;
+    text-align: center;
+    padding-left: 60px;
+    padding-right: 35px;
+    margin: 5px;
+
+
+
+}
+
+li {
+    font-size: 22px;
+    color: #312d2f;
+    font-family: 'Spectral', serif;
+    padding: 10px;
+    text-align: center; 
+    margin: 10px;
+
+}
+
+a {
+    color: #055b5c;
+}
+    
+
+
+
+
+
+
